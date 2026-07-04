@@ -29,6 +29,6 @@ To see my full portfolio, tech stack, and detailed experience, please visit my m
 
 ## 📫 Let's Connect
 
-* 🐙 **Main GitHub Profile:** [@ElkinMola20](https://github.com/eemola)
+* 🐙 **Main GitHub Profile:** [@eemola](https://github.com/eemola)
 * 💼 **LinkedIn:** [linkedin.com/in/elkinmola](https://www.linkedin.com/in/elkinmola/)
 * 📧 **Email:** [molaelkin1@gmail.com](mailto:molaelkin1@gmail.com)
