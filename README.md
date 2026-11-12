@@ -1,34 +1,25 @@
-# 📄 Professional Resumes | Hojas de Vida
+# Resumes | Hojas de Vida
 
-Welcome to my resume repository! Here you can access the most up-to-date versions of my Curriculum Vitae in both English and Spanish. 
+Up-to-date versions of my CV in English and Spanish.
+Versiones actualizadas de mi hoja de vida en inglés y español.
 
-¡Bienvenido a mi repositorio de hojas de vida! Aquí puedes acceder a las versiones más actualizadas de mi CV.
+| Language | View | Download |
+| :--- | :--- | :--- |
+| Español | [Ver en el navegador](https://github.com/eemola/Resumes/blob/main/CV_Elkin_Mola.pdf) | [Descarga directa](https://github.com/eemola/Resumes/raw/main/CV_Elkin_Mola.pdf) |
+| English | [View in browser](https://github.com/eemola/Resumes/blob/main/CV_Elkin_Mola__English_.pdf) | [Direct download](https://github.com/eemola/Resumes/raw/main/CV_Elkin_Mola__English_.pdf) |
 
----
+## Overview
 
-## 📥 View & Download / Ver y Descargar
+Economist and Data Analyst, M.A. Economics student at Universidad Icesi. Experience in:
 
-| Language | View / Ver | Download / Descargar |
-| :---: | :--- | :--- |
-| 🇪🇸 **Español** | [👁️ Ver CV en el navegador](https://github.com/ElkinMola20/Resumes/blob/main/CV_Elkin_Mola.pdf) | [📥 Descarga Directa](https://github.com/ElkinMola20/Resumes/raw/main/CV_Elkin_Mola.pdf) |
-| 🇺🇸 **English** | [👁️ View Resume in browser](https://github.com/ElkinMola20/Resumes/blob/main/CV_Elkin_Mola__English_.pdf) | [📥 Direct Download](https://github.com/ElkinMola20/Resumes/raw/main/CV_Elkin_Mola__English_.pdf) |
+- Data analytics and machine learning
+- Process automation and consolidation of large datasets (R, SQL, Python)
+- Dashboard design (Power BI) and technical reporting (Markdown)
 
----
+For my full profile, see [@eemola](https://github.com/eemola).
 
-## 👤 Quick Overview
+## Contact
 
-I am an **Economist and Data Analyst** currently pursuing a Master's degree in Economics at Universidad Icesi. I specialize in:
-* Data Analytics & Machine Learning
-* Process Automation (R, Python, SQL)
-* Consolidation of large datasets
-* Dashboard Design (Power BI) and Reporting (Markdown)
-
-To see my full portfolio, tech stack, and detailed experience, please visit my main GitHub profile.
-
----
-
-## 📫 Let's Connect
-
-* 🐙 **Main GitHub Profile:** [@eemola](https://github.com/eemola)
-* 💼 **LinkedIn:** [linkedin.com/in/elkinmola](https://www.linkedin.com/in/elkinmola/)
-* 📧 **Email:** [molaelkin1@gmail.com](mailto:molaelkin1@gmail.com)
+- GitHub: [@eemola](https://github.com/eemola)
+- LinkedIn: [linkedin.com/in/elkinmola](https://www.linkedin.com/in/elkinmola/)
+- Email: [molaelkin1@gmail.com](mailto:molaelkin1@gmail.com)
