@@ -22,4 +22,3 @@ For my full profile, see [@eemola](https://github.com/eemola).
 
 - GitHub: [@eemola](https://github.com/eemola)
 - LinkedIn: [linkedin.com/in/elkinmola](https://www.linkedin.com/in/elkinmola/)
-- Email: [molaelkin1@gmail.com](mailto:molaelkin1@gmail.com)
